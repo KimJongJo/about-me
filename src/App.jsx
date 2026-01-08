@@ -150,22 +150,22 @@ export default function App() {
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/css.png" alt="CSS" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/css.png" alt="CSS" />
                                 <span className="tooltip">CSS</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/js.png" alt="JavaScript" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/js.png" alt="JavaScript" />
                                 <span className="tooltip">JavaScript</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/jquery.png" alt="jQuery" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/jquery.png" alt="jQuery" />
                                 <span className="tooltip">jQuery</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/react.png" alt="React" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/react.png" alt="React" />
                                 <span className="tooltip">React</span>
                             </div>
                         </div>
@@ -176,42 +176,42 @@ export default function App() {
 
                         <div className="skills">
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/java.png" alt="HTML" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/java.png" alt="HTML" />
                                 <span className="tooltip">Java</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/jsp.png" alt="CSS" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/jsp.png" alt="CSS" />
                                 <span className="tooltip">Servlet&Jsp</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/thymeleaf.png" alt="JavaScript" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/thymeleaf.png" alt="JavaScript" />
                                 <span className="tooltip">Thymeleaf</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/springBoot.png" alt="React" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/springBoot.png" alt="React" />
                                 <span className="tooltip">Spring Boot</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/security.png" alt="React" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/security.png" alt="React" />
                                 <span className="tooltip">Spring Security</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/jpa.png" alt="React" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/jpa.png" alt="React" />
                                 <span className="tooltip">JPA</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/queryDsl.png" alt="React" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/queryDsl.png" alt="React" />
                                 <span className="tooltip">QueryDSL</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/mybatis.png" alt="React" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/mybatis.png" alt="React" />
                                 <span className="tooltip">Mybatis</span>
                             </div>
                         </div>
@@ -221,17 +221,17 @@ export default function App() {
                         <h3>Database</h3>
                         <div className="skills">
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/oracle.png" alt="HTML" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/oracle.png" alt="HTML" />
                                 <span className="tooltip">Oracle</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/mysql.png" alt="CSS" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/mysql.png" alt="CSS" />
                                 <span className="tooltip">Mysql</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/mariaDB.png" alt="JavaScript" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/mariaDB.png" alt="JavaScript" />
                                 <span className="tooltip">mariaDB</span>
                             </div>
                         </div>
@@ -241,27 +241,27 @@ export default function App() {
                         <h3>Tools</h3>
                         <div className="skills">
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/github.png" alt="GitHub" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/github.png" alt="GitHub" />
                                 <span className="tooltip">GitHub</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/git.png" alt="Git" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/git.png" alt="Git" />
                                 <span className="tooltip">Git</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/figma.png" alt="Figma" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/figma.png" alt="Figma" />
                                 <span className="tooltip">Figma</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/postman.png" alt="Postman" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/postman.png" alt="Postman" />
                                 <span className="tooltip">Postman</span>
                             </div>
 
                             <div className="skill-icon">
-                                <img className="skill-imgs" src="/skillImgs/notion.png" alt="Notion" />
+                                <img className="skill-imgs" src="/about-me/skillImgs/notion.png" alt="Notion" />
                                 <span className="tooltip">Notion</span>
                             </div>
                         </div>
