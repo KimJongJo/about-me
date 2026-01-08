@@ -36,7 +36,7 @@ a {
 
 .container1 {
     width: 100%;
-    max-width: 1200px; /* 최대 폭 제한 */
+    max-width: 1010px; /* 최대 폭 제한 */
     margin: 0 auto;
 }
 
@@ -597,8 +597,16 @@ h2 {
     display: flex;
     align-items: center;
     gap: 12px;
-    width: 240px;
-    justify-content: center;
+    width: 260px;
+    justify-content: flex-start;
+}
+
+.contact-item-div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 0 auto;
+    width: 210px;
 }
 
 .contact-item-text {

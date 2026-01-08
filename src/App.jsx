@@ -124,26 +124,32 @@ export default function App() {
                         {/* 1번째 줄 */}
                         <div className="contact-row">
                             <div className="contact-item">
-                                <FaUser size={20} />
-                                <div className="contact-item-text">
-                                    <span className="label">이름</span>
-                                    <span className="value">김종조</span>
+                                <div className="contact-item-div">
+                                    <FaUser size={20} />
+                                    <div className="contact-item-text">
+                                        <span className="label">이름</span>
+                                        <span className="value">김종조</span>
+                                    </div>
                                 </div>
                             </div>
 
                             <div className="contact-item">
-                                <FaCalendarAlt size={20} />
-                                <div className="contact-item-text">
-                                    <span className="label">생년월일</span>
-                                    <span className="value">00.03.09</span>
+                                <div className="contact-item-div">
+                                    <FaCalendarAlt size={20} />
+                                    <div className="contact-item-text">
+                                        <span className="label">생년월일</span>
+                                        <span className="value">00.03.09</span>
+                                    </div>
                                 </div>
                             </div>
 
                             <div className="contact-item">
-                                <FaMapMarkerAlt size={20} />
-                                <div className="contact-item-text">
-                                    <span className="label">위치</span>
-                                    <span className="value">서울특별시 중랑구</span>
+                                <div className="contact-item-div">
+                                    <FaMapMarkerAlt size={20} />
+                                    <div className="contact-item-text">
+                                        <span className="label">위치</span>
+                                        <span className="value">서울특별시 중랑구</span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -151,28 +157,34 @@ export default function App() {
                         {/* 2번째 줄 */}
                         <div className="contact-row">
                             <div className="contact-item">
-                                <FaPhone size={20} />
-                                <div className="contact-item-text">
-                                    <span className="label">연락처</span>
-                                    <span className="value">010-5270-8614</span>
+                                <div className="contact-item-div">
+                                    <FaPhone size={20} />
+                                    <div className="contact-item-text">
+                                        <span className="label">연락처</span>
+                                        <span className="value">010-5270-8614</span>
+                                    </div>
                                 </div>
                             </div>
 
                             <div className="contact-item">
-                                <FaEnvelope size={20} />
-                                <div className="contact-item-text">
-                                    <span className="label">이메일</span>
-                                    <span className="value">desk1614@gmail.com</span>
+                                <div className="contact-item-div">
+                                    <FaEnvelope size={20} />
+                                    <div className="contact-item-text">
+                                        <span className="label">이메일</span>
+                                        <span className="value">desk1614@gmail.com</span>
+                                    </div>
                                 </div>
                             </div>
 
                             <div className="contact-item">
-                                <FaGithub size={20} />
-                                <div className="contact-item-text">
-                                    <span className="label">깃허브</span>
-                                    <a href="https://github.com/KimJongJo" target="_blank" className="value link">
-                                        github.com/KimJongJo
-                                    </a>
+                                <div className="contact-item-div">
+                                    <FaGithub size={20} />
+                                    <div className="contact-item-text">
+                                        <span className="label">깃허브</span>
+                                        <a href="https://github.com/KimJongJo" target="_blank" className="value link">
+                                            github.com/KimJongJo
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
